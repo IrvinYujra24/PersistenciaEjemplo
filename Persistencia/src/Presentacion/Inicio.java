@@ -2,8 +2,8 @@ package presentacion;
 
 import java.util.List;
 
-import datos.GestorBinario;
-import datos.GestorTexto;
+import Datos.GestorBinario;
+import Datos.GestorTexto;
 import logica.Estudiante;
 
 public class Inicio {
