@@ -67,4 +67,8 @@ public class Estudiante implements Serializable {
     public String toString() {
         return String.format("ID: %d | Nombre: %-15s | Promedio: %.2f", id, nombre, promedio);
     }
+    
+    public void mostrar() {
+    	System.out.print(String.format("ID: %d | Nombre: %-15s | Promedio: %.2f", id, nombre, promedio));
+    }
 }

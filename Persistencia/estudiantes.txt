@@ -1,0 +1,3 @@
+101;Ana Gomez;85.5
+102;Luis Perez;88.0
+103;Carla Diaz;91.2

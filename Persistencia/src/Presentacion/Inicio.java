@@ -29,7 +29,7 @@ public class Inicio {
 
         // 4. Borrado del archivo
         System.out.println("\n--- Borrando archivo ---");
-        gestorTxt.borrarArchivo();
+        //gestorTxt.borrarArchivo();
 
 
         System.out.println("\n==========================================");
@@ -52,7 +52,7 @@ public class Inicio {
 
         // 4. Borrado del archivo
         System.out.println("\n--- Borrando archivo ---");
-        gestorBin.borrarArchivo();
+        //gestorBin.borrarArchivo();
     }
 
     private static void mostrarLista(List<Estudiante> lista) {
