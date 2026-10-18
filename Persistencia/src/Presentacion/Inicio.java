@@ -1,10 +1,10 @@
-package presentacion;
+package Presentacion;
 
 import java.util.List;
 
 import Datos.GestorBinario;
 import Datos.GestorTexto;
-import logica.Estudiante;
+import Logica.Estudiante;
 
 public class Inicio {
     public static void main(String[] args) {

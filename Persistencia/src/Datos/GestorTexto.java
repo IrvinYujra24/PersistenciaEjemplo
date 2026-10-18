@@ -4,7 +4,7 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
-import logica.Estudiante;
+import Logica.Estudiante;
 
 public class GestorTexto {
     private final String rutaArchivo;
